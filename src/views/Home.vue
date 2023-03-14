@@ -21,17 +21,23 @@
             <div class="carousel-item">
                 <img src="../assets/pp2.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h3>Web Designing</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-                    <a href="#" class="btn btn-warning">Read More</a>
+                    <h3>እንኳን ወደ ሐዋሳ ደብረ ምህረት ቅ/ገብርኤል ገዳም </h3>
+                    <div class="autoWritter">
+                        <h2 class="autoWrite-text">መ/ድ/ሰ/ት/ቤት  ድረ-ገፅ በሰላም መጡ!</h2>
+                     </div>
+                    <router-link class="btn btn-warning" to="/register">ይመዝገቡ</router-link>  
+                                <router-view/>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="../assets/pp2.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h3>App Development</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-                    <a href="#" class="btn btn-warning">Read More</a>
+                    <h3>እንኳን ወደ ሐዋሳ ደብረ ምህረት ቅ/ገብርኤል ገዳም </h3>
+                    <div class="autoWritter">
+                        <h2 class="autoWrite-text">መ/ድ/ሰ/ት/ቤት  ድረ-ገፅ በሰላም መጡ!</h2>
+                     </div>
+                    <router-link class="btn btn-warning" to="/register">ይመዝገቡ</router-link>  
+                                <router-view/>
                 </div>
             </div>
         </div>
@@ -51,34 +57,33 @@
 
 <section id="pro">
  <div class="title-text">
-        <p></p>
-        <h1></h1>
+        <h1>TITLE</h1>
     </div>   
     <div class="pro-row">
-        <div class="pro-col">
+        <div class="pro-col my-4">
             <div class="slide">
                 
                 <div class="slide-info">
-                    <h1>ራዕይ</h1>
-                    <p>በኢ/ኦ/ተ/ቤ/ክ ትምህርትና በመልካም ሥነ ምግባር የታነጸ የቤተክርስቲያንና የሀገር ተረካቢ ትውልድ ማፍሪያ ተቋም መሆን፡፡</p>
+                    <h1 class="title-pro">ራዕይ</h1>
+                    <p class="title-detail">በኢ/ኦ/ተ/ቤ/ክ ትምህርትና በመልካም ሥነ ምግባር የታነጸ የቤተክርስቲያንና የሀገር ተረካቢ ትውልድ ማፍሪያ ተቋም መሆን፡፡</p>
                 </div>
             </div>      
         </div>
-        <div class="pro-col">
+        <div class="pro-col my-4">
             <div class="slide">
                  
                 <div class="slide-info">
-                    <h1>ተልዕኮ</h1>
-                    <p>በኢ/ኦ/ተ/ቤ/ክ መሰረታዊ ትምህርት የበለጸገ በመልካም ሥነ ምግባር የታነጸ ትውልድ ማፍራት፡፡  </p>
+                    <h1 class="title-pro">ተልዕኮ</h1>
+                    <p class="title-detail">በኢ/ኦ/ተ/ቤ/ክ መሰረታዊ ትምህርት የበለጸገ በመልካም ሥነ ምግባር የታነጸ ትውልድ ማፍራት፡፡  </p>
                 </div>
             </div>
         </div>
-        <div class="pro-col">
+        <div class="pro-col my-4">
             <div class="slide">
                 
                 <div class="slide-info">
-                    <h1> እሴቶች</h1>
-                    <p>የኢ/ኦ/ተ/ቤ/ክ እምነትና ስርዓት የእምነቱ ተከታዮች በተለይም ህጻናትና ወጣቶች በቃለ እግዚአብሔር ማነጽ ነው፡፡ </p>
+                    <h1 class="title-pro"> እሴቶች</h1>
+                    <p class="title-detail">የኢ/ኦ/ተ/ቤ/ክ እምነትና ስርዓት የእምነቱ ተከታዮች በተለይም ህጻናትና ወጣቶች በቃለ እግዚአብሔር ማነጽ ነው፡፡ </p>
                 </div>
             </div>
         </div>
@@ -90,107 +95,67 @@
 
 
 <section id="News">
-     <div class="title-text">
-        <h1></h1>
-    </div>
-    <div class="News-box">
-        <div class="Newss">
-        <p></p>  
-            <div class="Newsss-img">
-                <img src="../assets/gebriel.jpg">
-                <h2>ጾም</h2>
-            </div>
-            <p>
+    
+    <h3 class="title-news"> NEWS </h3>
 
-ቀሲስ ዘክርስቶስ ጸጋዬ
+    <div class="testimonial-row">
+        <div class="testimonial-col">
+            <div class="user">
+                <img src="../assets/ethio3.jpg">
+                <div class="user-info"></div>
+            
+            </div>
+            <h3 class="title" >+ ጾም +</h3>
+            <p>ቀሲስ ዘክርስቶስ ጸጋዬ
 
 ኅዳር ፲፫ ቀን ፳፻፲፬ ዓ.ም
 
 የተወደዳችሁ የእግዚአብሔር ልጆች! እንደምን ሰነበታችሁ? እግዚአብሔር ይመስገን አላችሁ? መልካም፤ እግዚአብሔር አምላካችን የተመሰገነ ይሁን፡፡ ባላችሁበት ሆናችሁ ትምህርታችሁን  በጥሞና ተከታተሉ!
 
-ልጆች! ለዛሬ ይዘንላችሁ የቀረብነው ትምህርት ስለ ጾም ነው፡፡ በመጀመሪያ ጾም ምን ማለት እንደሆነ እና እናንተ ሕፃናት ከሰባት ዓመት ዕድሜያችሁ ጀምሮ እንዴት መጾም እንዳለባችሁ እናስተምራችኋለን፡፡
+ልጆች! ለዛሬ ይዘንላችሁ የቀረብነው ትምህርት ስለ ጾም ነው፡፡ በመጀመሪያ ጾም ምን ማለት እንደሆነ እና እናንተ ሕፃናት ከሰባት ዓመት ዕድሜያችሁ...............</p>
 
-ልጆች! ጾም ማለት ክርስቲያን የሆነ ሰው ሁሉ ለተወሰነ ጊዜና ሰዓት ከእህል ከውኃ ተከልክሎ መቆየት ማለት ሲሆን ከሥጋ፣ ከቅቤና፣ ከእንቁላል ደግሞ እንድንጾምባቸው የተወሰኑ የአጽዋማት ሳምንታት እስኪጠናቀቁ የምንከለከልበት ወቅት ማለት ነው፡፡ (ፍትሕ መንፈሳዊ አንቀጽ ፲፭)
 
-ከዚያም በተጨማሪ ጾም ዓይን ክፉ ከማየት ጆሮ ክፉ ከመስማት፣ አንደበት ክፉ ከመናገር፣ እጅ ክፉ ከመሥራት በአጠቃላይ ሰውነት የኀጢአት ሥራ ከመሥራት የሚገታበት፣ የሚከለከልበት ሁኔታ ማለት ነው፡፡
-
-ጾም የአዋጅ እና የፈቃድ ተብሎ በሁለት ይከፈላል፡፡</p>
-            <router-link class="read-more" to="/news">ሙሉውን ለማንበብ</router-link>  
+        <router-link class="read-more" to=" /news ">ሙሉውን ለማንበብ</router-link>  
              <router-view/>
         </div>
-        <div class="outer">
-        <details open>
-            <summary>ሃይማኖት ምን ማለት ነው?</summary>
-            <div class="faq-content">
-                <p>• ሃይማኖት ማለት ማመን እና መታመን ማለት ነው፡፡ ማመን ማለት በዓይነ ስጋ አይቶ በዕዝነ ሥጋ (ጆሮ) ሰምቶ፤በልብ አስቦ፤በስሜት ህዋሳትም አድምጦ  ለሊመረምሩት የማችሉትን ሩቅ በመሆን እና በረቂቅነት ያለውን ይሆናል ይደረጋል ብሎ መቀበል ነው፡፡ መታመን ማለት ደግሞ ይሆናል ይደረጋል ብሎ በእምነት የተቀበሉትን እንዲሆን፣እንዲደረግ፣እነዲፈጸም ተግባራዊ ምላሽ መስጠት ነው፡፡ ምሳሌ፦ ‹‹አንድ ሰው በጥምቀት ከሥላሴ ደግሞ ልደት ሊወለድ ይችላል›› ብሎ ካመነ ቦሃላ መጠመቅ ማለት ነው፡፡
-</p>
-            </div>
-        </details>
-
-        <details>
-            <summary>ሃይማኖት እንዴት እና መች  ተጀመረ?</summary>
-            <div class="faq-content">
-                <p>• ሃይማኖት የተጀመረው ስሙን ቀድሰው ክብሩን ወርሰው ለመኖር ከተፈጠሩት ፍጥረታት የመጀመሪያዎቹ ቅዱሳን መላእክት በተፈተሩበት ዕለት(ስነ-ፍጥረት መፈጠር በተጀመረበት ዕለት) ነው፡፡ በዚህ ዕለት መላእክትን ፈጥሮ ፈጣሪ ተሰውሮባቸዋል፡፡ ይህንም ያደረገው ስለ ሁለት ነገር ነው፡፡
-                    <br>1.ፈጣሪን በባህሪው ሊያው የሚቻለው ፍትረት የሌለ አኗኗሩም የማይመረመር መሆኑን ለማጠየቅ ነው፡፡ ‹‹መቼስ ቢሆን እግዚአብሔርን ያየው አንድ ስንኳ የለም›› (ዮሐ 1፡18) 
-                    <br>2.ፈጣሪ አእምሮ ሰቶቸዋልና መርምረው ይወቁኝ በማለት ነው፡፡ (ይህም ሲባል በእምነት ሆነው እንጂ ያለእምነት ሆነው እግዚአብሔርን ሊያውቁ አይችሉም፡፡)
-                    በዚህም መሰረት እውቀታቸውን ተጠቅመው ጥቄዎችን ጠየቁ፡፡ ጥያቄያቸውም እግዚአብሔርን በማመን የተጀመረ ነው በዚህም መሰረት ማን ፈጠረን?ከየት መጣን?.............የሚሉት ጥያቄዎች እንደሚያመለክቱት አላወቁትም እንጂ ፈጣሪ(አስገኝ) እንዳላቸው አምነዋል፡፡
-                    <br>  
-                </p>
-                <h5>•ስለዚህ ሃይማኖት እንደዚህ በቅዱሳን መላእክት በመጀመሪያ ዕለት ተጀመረ፡፡ </h5>
-            </div>
-        </details>
-        <details>
-            <summary>ኦርቶዶክስ</summary>
-            <div class="faq-content">
-                <p>• ኦርቶዶክስ የሚለው ቃል የግሪክ ቃል ሲሆን ‹‹ኦርቶ›› (ኦርቶስ) ማለት ቀጥ ያለ እምነት ሲሆን ‹‹ዶክስ‹‹ ማለት ደግሞ እምነት ማለት ነው፡፡ ስለዚህ ኦርቶዶክስ ቀጥ ያለ፡የጸና፡የቀና እምነት ማለት ነው፡፡ በብሊይና በሓዲስ ኪዳን እንደተገለጸልን ቀጥ ያለ እምነት ወይም እውነተኛ ሃይማኖት ተብላ በአምላካችን የተመሰረተች ኦርቶዶክስ ተዋህዶ ናት፡፡</p>
-            </div>
-        </details>
-        <details>
-            <summary>ተዋህዶ </summary>
-            <div class="faq-content">
-                <p>• ተዋህዶ የቃሉ ትርጉም ግእዝ ሲሆን የሚያበስረንም የአምላካችን የእግዚአብሔርን ሰው የመሆን ምስጢር ነው፡፡ ይህም የተባለበት ምክንያት በዮሐንስ ወንጌል 1፡14 ‹‹ያ ቃል ሥጋ ሆነ›› በማለት ተዋህዶን (መዋሃዱን) ገልጾታል፡፡
-ኤር 6፡16     ማቴ 13፡14    ዕብ 13፡7
-</p>
-            </div>
-        </details>
     </div>
-    </div>    
+
 </section>
 
 
 
 <!-- service -->
 
-<section id="service">
-    <div class="title-text">
-        <h1>ምክረ አበው </h1>
+<section id="testimonial" class="home-tomar">
+<div class="title-text">
+        <h1>ጦማር</h1>
     </div>
-    <div class="service-box">
-        <div class="single-service">
-            <img src="../assets/abwee2.jpg">
-            <div class="overlay"></div>
-            <div class="service-desc">
-                <h1>ታላቁ ቅዱስ ጎሮጎርዮስ</h1>
-                <hr>
-                <p>"ዛሬን ለሰይጣን ነገን ደግሞ ለእግዚአብሔር አትስጡ!"</p>
+    <div class="testimonial-row row-tomar-home">
+        <div class="testimonial-col">
+            <div class="user">
+                <img src="../assets/ethio3.jpg">
+                <div class="user-info"></div>
+            
             </div>
-        </div>
-        <div class="single-service">
-            <img src="../assets/abwee.jpg">
-            <div class="overlay"></div>
-            <div class="service-desc">
-                <h1>ታላቁ ቅዱስ ጎሮጎርዮስ</h1>
-                <hr>
-                <p>"ዛሬን ለሰይጣን ነገን ደግሞ ለእግዚአብሔር አትስጡ!"</p>
-            </div>
+            <h>+ ጾም +</h>
+            <p>ቀሲስ ዘክርስቶስ ጸጋዬ
+
+ኅዳር ፲፫ ቀን ፳፻፲፬ ዓ.ም
+
+የተወደዳችሁ የእግዚአብሔር ልጆች! እንደምን ሰነበታችሁ? እግዚአብሔር ይመስገን አላችሁ? መልካም፤ እግዚአብሔር አምላካችን የተመሰገነ ይሁን፡፡ ባላችሁበት ሆናችሁ ትምህርታችሁን  በጥሞና ተከታተሉ!
+
+ልጆች! ለዛሬ ይዘንላችሁ የቀረብነው ትምህርት ስለ ጾም ነው፡፡ በመጀመሪያ ጾም ምን ማለት እንደሆነ እና እናንተ ሕፃናት ከሰባት ዓመት ዕድሜያችሁ...............</p>
+
+
+            <router-link class="read-more" to=" /news ">ሙሉውን ለማንበብ</router-link>  
+             <router-view/>
         </div>
     </div>
 </section>
 
 <!-- personal information -->
 
-<section id="info">
-   
+<section id="info"> 
     <div class="title-text">
         <p>ለበለጠ መረጃ</p>
         <h1>የሰንበት ት/ቤት አመራሮችን እናስተዋውቆዎ</h1>
@@ -474,10 +439,10 @@
             <!-- Email input -->
             <div class="form-outline form-white mb-4">
               <n>
-              <a href="#/Home" class="text-white">Home |</a>
-               <a href="#!" class="text-white">  Contact |</a>
+                <a href="#/Home" class="text-white">Home |</a>
+                <a href="#/Contact" class="text-white">  Contact |</a>
                 <a href="#!" class="text-white">   Tomar |</a>
-                 <a href="#!" class="text-white">  News |</a>
+                <a href="#!" class="text-white">  News |</a>
               </n>
             </div>
           </div>
@@ -517,9 +482,27 @@ export default {
 }
     
 #News{
+    margin-top: 200px;
     width: 100%;
     padding: 120px 0;
     background: #efefef;
+}
+.title-news{
+   font-weight: 700;
+   font-size: 26px;
+}
+.home-tomar{
+    margin-top: -160px;
+}
+.testimonial-row{
+    margin-top: 80px;
+}
+.row-tomar-home{
+    margin-top: 10px;
+}
+.title{
+   font-size: 24px;
+   font-weight: 700;
 }
 .title-text{
     text-align: center;
@@ -647,6 +630,11 @@ details[open] > summary::after {
     width: 100%;
     border-radius: 7px;
 }
+@media (max-width: 770px) {
+    #service {
+        margin-top:  30rem;
+    }
+}
 .overlay{
     width: 100%;
     height: 100%;
@@ -749,8 +737,9 @@ details[open] > summary::after {
 
 
 .pro{
-    width: 10px;
-    padding: 10px;
+    background-color: #efefef;
+    margin-top: 5rem;
+    width: 10px;  
 }
 
 .pro-row{
@@ -763,6 +752,7 @@ details[open] > summary::after {
     flex-wrap: wrap;
     cursor: pointer;
     transition: transform 0.5s;
+    margin-top: -25px ;
 }
 .pro-col{
     flex-basis: 28%;
@@ -773,6 +763,7 @@ details[open] > summary::after {
     cursor: pointer;
     transition: transform 0.5s;
     background: white;
+    border-radius: 10px;
 }
 
 .pro-col p{
@@ -781,7 +772,13 @@ details[open] > summary::after {
 .pro-col h1{
     font-size: 30px;
 }
-
+.title-pro{
+    font-weight: bolder;
+}
+.title-detail{
+    margin-top: 1rem;
+    font-weight: 300;
+}
 .slide{
     display: flex;
     align-items: center;

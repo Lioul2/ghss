@@ -10,34 +10,31 @@
                            
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <div class="navbar-nav mr-auto">
-                <router-link to="/" class="nav-item nav-link">Home|ቀዳሚገፅ|</router-link>
-                <router-link to="/contact" class="nav-item nav-link">Contact|ያግኙን|</router-link>
-                <router-link to="/news" class="nav-item nav-link">News|ዜና|</router-link>
-                <router-link to="/tomar" class="nav-item nav-link">Tomar|ጦማር|</router-link>
-                <router-link to="/dashboard" class="nav-item nav-link">Dashboard</router-link>
-                              <div class="dropdown">
-                                <button
-                                  class="btn btn-primary dropdown-toggle"
-                                  type="button" id="dropdownMenuButton1"
-                                  data-bs-toggle="dropdown"
-                                  aria-expanded="false">
-                                  Catagories |ክፍላት|{{value}}
-                                </button>
-                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1" role="menu">
-                                  <li v-for="option in options" :key="option">
-                                    <a class="dropdown-item" @click="value = option" href="javascript:void(0)">{{option}}</a>
-                                  </li>
-                                </ul>
-                              </div>
+                <router-link to="/" class="mx-4 nav-item nav-link">Home|ቀዳሚገፅ|</router-link>
+                <router-link to="/news" class="mx-4 nav-item nav-link">News|ዜና|</router-link>
+                <router-link to="/tomar" class="mx-4 nav-item nav-link">Tomar|ጦማር|</router-link>
+                <router-link to="/contact" class="mx-4 nav-item nav-link">Contact|ያግኙን|</router-link>    
               </div>
-              <form class="d-flex">
-                <input class="form-control me-2" type="search" placeholder="ፈልግ" aria-label="Search">
-                <button class="btn btn-outline-success" type="submit">Search</button>
-                
-              </form>
-                <router-link to="/login" class="nav-item nav-link">Log in</router-link>
-                <router-link to="/register" class="nav-item nav-link">Register</router-link>
+                <router-link to="/login" class="nav-item nav-link"> <button class="nav-btn btn btn-outline-primary">Log in</button>  </router-link>
+                <router-link to="/register" class="nav-item nav-link"> <button class="nav-btn btn btn-outline-secondary">Register</button> </router-link>
             </div> 
     </nav>
   </div>
 </template>
+<style>
+  .navbar{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+  }
+  @media (min-width: 991px) {
+    .collapse{
+       display: flex; 
+       width: 100%;
+       margin-left: 8rem;
+       padding: 0;
+    } 
+  }
+  .active {
+    color: black;
+  }
+</style>

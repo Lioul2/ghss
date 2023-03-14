@@ -1,260 +1,344 @@
 <template>
-<div>
-    <p>hi there</p>
-        <div class="yes">
-            <h2>ጾም</h2> 
-        </div>
-    <p>
-
-ቀሲስ ዘክርስቶስ ጸጋዬ
+   <section id="testimonial">
+      <div class="title-text">
+          <h1 class="page-title">News</h1>
+      </div>
+   <div class="testimonial-row">
+       <div class="testimonial-col">
+           <div class="user">
+               <img src="../assets/ethio3.jpg">
+               <div class="user-info"></div>
+           
+           </div>
+           <h3 class="title" >+ ጾም +</h3>
+           <p>ቀሲስ ዘክርስቶስ ጸጋዬ
 
 ኅዳር ፲፫ ቀን ፳፻፲፬ ዓ.ም
 
 የተወደዳችሁ የእግዚአብሔር ልጆች! እንደምን ሰነበታችሁ? እግዚአብሔር ይመስገን አላችሁ? መልካም፤ እግዚአብሔር አምላካችን የተመሰገነ ይሁን፡፡ ባላችሁበት ሆናችሁ ትምህርታችሁን  በጥሞና ተከታተሉ!
 
-ልጆች! ለዛሬ ይዘንላችሁ የቀረብነው ትምህርት ስለ ጾም ነው፡፡ በመጀመሪያ ጾም ምን ማለት እንደሆነ እና እናንተ ሕፃናት ከሰባት ዓመት ዕድሜያችሁ ጀምሮ እንዴት መጾም እንዳለባችሁ እናስተምራችኋለን፡፡
+ልጆች! ለዛሬ ይዘንላችሁ የቀረብነው ትምህርት ስለ ጾም ነው፡፡ በመጀመሪያ ጾም ምን ማለት እንደሆነ እና እናንተ ሕፃናት ከሰባት ዓመት ዕድሜያችሁ...............</p>
 
-ልጆች! ጾም ማለት ክርስቲያን የሆነ ሰው ሁሉ ለተወሰነ ጊዜና ሰዓት ከእህል ከውኃ ተከልክሎ መቆየት ማለት ሲሆን ከሥጋ፣ ከቅቤና፣ ከእንቁላል ደግሞ እንድንጾምባቸው የተወሰኑ የአጽዋማት ሳምንታት እስኪጠናቀቁ የምንከለከልበት ወቅት ማለት ነው፡፡ (ፍትሕ መንፈሳዊ አንቀጽ ፲፭)
 
-ከዚያም በተጨማሪ ጾም ዓይን ክፉ ከማየት ጆሮ ክፉ ከመስማት፣ አንደበት ክፉ ከመናገር፣ እጅ ክፉ ከመሥራት በአጠቃላይ ሰውነት የኀጢአት ሥራ ከመሥራት የሚገታበት፣ የሚከለከልበት ሁኔታ ማለት ነው፡፡
-
-ጾም የአዋጅ እና የፈቃድ ተብሎ በሁለት ይከፈላል፡፡ ሀ. የዐዋጅ ጾም
-
-የዐዋጅ አጽዋማት በቤተ ክርስቲያን ለምእመናን ሁሉ አውቀውት በአንድነት የሚጾም ጾም ነው፡፡ ይህም መጽሐፍ ቅዱሳዊ መሠረት አለው፡፡ ‹‹በጽዮን መለከትን ንፉ ጾምንም ቀድሱ ጉባኤውንም ዐውጁ›› (ኢዩ. ፪፥፲፭)
-
-የዐዋጅ ጾሞች ሰባት ናቸው፡፡ እነርሱም፤ የነቢያት ጾም፣ የገሃድ ጾም፣ የነነዌ ጾም፣ ዐቢይ ጾም፣ የሐዋርያት ጾም፣ ጾመ ድኅነት (ረቡዕና ዓርብ)፣ ጾመ ፍልሰታ ናቸው፡፡ የነቢያት ጾምም የፊታችን ረቡዕ ኅዳር ፲፭ ቀን ጀምሮ እስከ ጌታችን መድኃኒታችን ኢየሱስ ክርስቶስ ልደት ዋዜማ ታኅሣሥ ፳፰ ቀን ድረስ ይጾማል፡፡
-
- ለ. የፈቃድ ጾም
-
-የፈቃድ ጾም  ደግሞ ራሳችን አስበንና ፈልገን የምንጾመው ጾም ነው፡፡ የፈቃድ ጾም ሁለት ናቸው፤ የጽጌ ጾም እና ጾመ ዮዲት ተብለውም ይጠራሉ፡፡ ይህም ጥፋት ወይንም ኀጢአት ስንሠራ ለንስሓ (ይቅርታን ለማግኘት) ስለሚረዳን እንጾመዋለን፡፡
-
-ልጆች! እያንዳንዱን ጾም የምንጾምበት ምክንያት አለን፡፡ ለምሳሌ አሁን ያለንብት ወቅት የነቢያት ጾም የሚጾምበት ነው፤ ከኅዳር ፲፬ ጀምሮ እስከ ታኅሣሥ ፳፰ ድረስም ይጾማል፡፡
-
-ይህን ጾም ነቢያት የአምላክን መወለድ በተስፋ በመጠበቅ ስለጾሙት እኛም ጌታችን መድኃኒታችን ኢየሱስ ክርስቶስ ከእመቤታችን ድንግል ማርያም ተወልዶ እንዳዳነን በማመን እስከ የልደት በዓል ዋዜማ ታኅሣሥ ፳፰ ድረስ እንጾመዋለን፡፡
-
-ልጆች! ወደፊት ስለተቀሩት የዐዋጅ እና የፈቃድ አጽዋማት ወቅታቸውን እየጠበቅን በተናጠል እናስተምራችኋለን፡፡ ለዛሬ ግን በዚህ ይብቃን፤ በሚቀጥለው ትምህርታችን እስክንገኛኝ በጸሎትና ጾም እንድትበረቱ እንመክራችኋለን፤ በደኅናም ሰንብቱ!
-
-የጌታችን መድኃኒታችን ኢየሱስ ክርስቶስ ቸርነትና የእናቱ ቅድስት ድንግል ማርያም አማላጅነት አይለየን፤ አሜን፡፡</p>      
-  
- </div>
- <div>
-    <p>hi there</p>
-        <div class="yes">
-            <h2>ጾም ነቢያት</h2> 
-        </div>
-        <p>
-
-ዮሐንስ ተመስገን
-
-ኅዳር ፲፬ ቀን ፳፻፲፬ ዓ.ም
+       <router-link class="read-more" to=" /news ">ሙሉውን ለማንበብ</router-link>  
+            <router-view/>
+       </div>
+       <div class="testimonial-col">
+           <div class="user">
+               <img src="../assets/ethio2.jpg">
+               <div class="user-info"></div>
+           </div>
+           <h3 class="title">+ ጾም ነቢያት +</h3>
+           <p>ኅዳር ፲፬ ቀን ፳፻፲፬ ዓ.ም
 
 ከሰባቱ የአዋጅ አጽዋማት መካከል አንዱ የሆነውን ጾመ ነቢያት በየዓመቱ ከኅዳር ፲፭ ጀምሮ እስከ ጌታችን ኢየሱስ ክርስቶስ የልደት በዓል ድረስ በአምላካችን ቅዱስ ፈቃዱ እንጾማለን!
 
-እግዚአብሔር ዓለምን ለማዳን ሲል ከሰማየ ሰማያት መውረዱን፣ ከንጽሕተ ንጹሓን፣ ከቅድስተ ቅዱሳን ድንግል ማርያም መወለዱን፣ ወደ ግብጽ መሰደዱን፣ በዮርዳኖስ መጠመቁን፣ በትምህርተ ወንጌልን ማስታማሩን፣ በመጨረሻም በሞቱ ሞትን ማጥፋቱን፣ ትንሣኤውንና ዕርገቱን ሁሉ አስቀድመው የተነሡ ነቢያት በመንፈስ ቅዱስ እየተመሩ ትንቢት በተናገሩት መሠረት ተፈጽሟል፡፡ ነቢያቱም ትንቢታቸው እንዲፈጸም ‹‹አንሥእ ኀይለከ ፈኑ እዴከ፤ኃይልህን አንሳ እጅህንም ላክ›› እያሉ በጾም በጸሎት ተወስነው መምጫውን በጊዜ እየለኩ ሲጠባበቁ ኑረዋል። ትንቢቱም ጊዜው ሲደርስ ተፈጽሟል፡፡ እኛም ከዚህ በመነሣት ቤተ ክርስቲያናችን በሠራችልን ሥርዓት መሠረት ልንጾም ይገባናል፡፡
-
-ጾሙ የሚጠራባቸው ስያሜዎች
-
-፩.ጾመ ነቢያት
-
-ይህ ጾም ከላይ ለመግለጥ እንደሞከርነው ሁሉ ነቢያት የእግዚአብሔርን ሰው መሆንና ዓለሙን የሚያድነበትን ጊዜ እየተጠባበቁ የጾሙት በመሆኑ ጾመ ነቢያት (የነቢያት ጾም) ተብሏል።
-
-፪. ጾመ አዳም
-
-ለአዳም የተነገረው የድኅነት ተስፋ ስለመፈጸሙ የተሰጠው ስያሜ ነው።
-
-፫. ጾመ ስብከት
-
-ስለ እግዚአብሔር ሰው መሆን በስፋት ትምህርተ ወንጌል የሚሰጥበት በመሆኑ ጾመ ስብከትም እየተባለ ይጠራል።
-
-፬. ጾመ ሐዋርያት
-
-ሐዋርያት በዓለ ትንሣኤን ዐቢይ ጾምን ጾመን እንፈታለን፤ በዓለ ልደትንም ይህን ጾም ጾመን እንፍታ ብለው ሲጾሙት ስለነበር ጾመ ሐዋርያት ይባላል።
-
-፭. ጾመ ፊልጶስ
-
-ሐዋርያው ፊልጶስ በአፍራካ አውራጃዎች በመዘዋወር ወንጌልን እየሰበከና ድንቅ ድንቅ ተአምራትን እያደረገ፣ ያመኑትን እያጸና፣ ያላመኑትን እየመለሰ ቆይቶ በሰማዕትነት ዐረፈ። ደቀ መዛሙርቱ ሥጋውን ሊቀብሩ ቢሹ አጡት፤ ተሰውሮባቸው ነበርና። እግዚአብሔር እንዲገልጥላቸው ሱባኤ ይዘው በጾም በጸሎት ቢለምኑት በሦስተኛው ቀን ተገልጦላቸዋል። እነሱም በክብር አሳረፉት። ጾሙን ግን እስከ ጌታ ልደት ቀን ድረስ ጹመውታል። በዚህም ምክንያት ጾመ ፊልጶስ እየተባለ ይጠራል።
-
-፮. ጾመ ማርያም
-
-እመ አምላክ፣ ወላዲተ አምላክ ድንግል ማርያም ወልደ እግዚአቤሔርን እንደምትወልደው መልአኩ ቅዱስ ገብርኤል ቢያበሥራት ‹‹ሰማይና ምድር የማይወስኑትን ፀንሼ፣ ምን ሠርቼ እወልደዋለሁ›› በማለት በትሕትና ጌታችንን ከመውለዷ አስቀድማ ጹማ ነበርና ጾመ ማርያም ተብሏል።
-
-እንግዲህ ከላይ ያየናቸው ቀደምት ቅዱሳን በዚህ ጾም ተጠቅመውበታል። እኛም አምላካችን ምሕረት ይሰጠን ዘንድ እንዲሁም ከቅዱሳኑም በረከት እናገኝ ዘንድ ልንጾመው ግድ ነው።
-
-ተወዳጆች ሆይ! ስንጾም እነዚህን ነገሮች ልብ ማለት ይገባል።
-
-ሀ. በእምነት ሁነን መጾም፦ እግዚአብሔር ይሰማኛል፤ ዋጋ አገኝበታለሁ ብለን እያመንን መሆኑን ማስተዋል ይገባል።
-
-ለ. በፍቅር መጾም፦ ከወንድሞችና ከእኅቶች ጋር በመስማማትና በአጠቃላይ ክፋት በማይታሰብበት ልቡና ሆኖ መጾም ያስፈልጋል።
-
-ሐ. ንስሓን፣ ጸሎትን፣ ምጽዋትን፣ ይቅርታን ገንዘብ በማድረግ መጾምን አለብን።
-
-መ. ከክፉ ነገር ሕዋሳቶቻችንን ዐቅበን (ጠብቀን) መጾም፦ ዐይን፣ ጆሮ፣ እጅ፣ እግር፣ አፍ ይጹም ብሎ እንደነገረን ቅዱስ ያሬድ እኛም ከክፉ ሁሉ ተከልክለን እንዲህ ባለው አኳኋን ከጾምን ቸሩ አምላካችን ምሕረቱን ይልክልናል።
-
-በመጨረሻም ስንጾም በመከራ ውስጥ ስላሉት ወገኖቻችን እያሰብን እንዲሁም ሁሉም ነገር መልካም የሚሆነው ሀገር ሰላም ሲሆን ነውና ለሀገራችን ሰላምን፣ ለሕዝቦቿም ፍቅር፣ አንድነትን እያሰብን አምላካችንን እንለምነው።
-
-የራሔልን ዕንባ የተቀበለ አምላካችን ጾማችንን ይቀበልልን፤ አሜን።
-
-ወስብሐት ለእግዚአብሔር!</p>
-</div>
-
-<section class="tabs-section text-white">
-         <div class="container">
-            <div class="row">
-               <div class="col-sm-5 col-lg-3">
-                  <ul class="nav nav-tabs flex-column mb-3">
-                     <li class="nav-item">
-                        <a class="nav-link active show" data-toggle="tab" href="#tab-1">Lorem Ipsum?</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#tab-2">Do we use it?</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#tab-3">come from?</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#tab-4">Can I get some?</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#tab-5">Lorem Ipsum text?</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#tab-6">Can we use it?</a>
-                     </li>
-                  </ul>
-               </div>
-               <div class="col-sm-7 col-lg-9">
-                  <div class="tab-content">
-                     <div class="tab-pane active show" id="tab-1">
-                        <div class="row">
-                           <div class="col-lg-4">
-                              <div class="feature-img">
-                                 <img src="../assets/ethio3.jpg" alt="" class="img-fluid">
-                              </div>
-                           </div>
-                           <div class="col-lg-8 details">
-                              <h3 class="mt-3">What is Lorem Ipsum?</h3>
-                              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane" id="tab-2">
-                        <div class="row">
-                           <div class="col-lg-4">
-                              <div class="feature-img">
-                                 <img src="images/user-img-2.jpg" alt="" class="img-fluid">
-                              </div>
-                           </div>
-                           <div class="col-lg-8 details">
-                              <h3 class="mt-3">Why do we use it?</h3>
-                              <p class="font-italic">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane" id="tab-3">
-                        <div class="row">
-                           <div class="col-lg-4">
-                              <div class="feature-img">
-                                 <img src="images/user-img-1.jpg" alt="" class="img-fluid">
-                              </div>
-                           </div>
-                           <div class="col-lg-8 details">
-                              <h3 class="mt-3">Why do we use it?</h3>
-                              <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane" id="tab-4">
-                        <div class="row">
-                           <div class="col-lg-4">
-                              <div class="feature-img">
-                                 <img src="images/user-img-3.jpg" alt="" class="img-fluid">
-                              </div>
-                           </div>
-                           <div class="col-lg-8 details">
-                              <h3 class="mt-3">Where does it come from?</h3>
-                              <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane" id="tab-5">
-                        <div class="row">
-                           <div class="col-lg-4">
-                              <div class="feature-img">
-                                 <img src="images/user-img-2.jpg" alt="" class="img-fluid">
-                              </div>
-                           </div>
-                           <div class="col-lg-8 details">
-                              <h3 class="mt-3">Where can I get some?</h3>
-                              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="tab-pane" id="tab-6">
-                        <div class="row">
-                           <div class="col-lg-4">
-                              <div class="feature-img">
-                                 <img src="images/user-img-1.jpg" alt="" class="img-fluid">
-                              </div>
-                           </div>
-                           <div class="col-lg-8 details">
-                              <h3 class="mt-3">Why do we use it?</h3>
-                              <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+እግዚአብሔር ዓለምን ለማዳን ሲል ከሰማየ ሰማያት መውረዱን፣ ከንጽሕተ ንጹሓን፣ ከቅድስተ ቅዱሳን ድንግል ማርያም መወለዱን፣ ወደ ..........</p>
+<router-link class="read-more" to=" /news ">ሙሉውን ለማንበብ</router-link>  
+            <router-view/>
+       </div>
+       <div class="testimonial-col">
+            <div class="user">
+               <img src="../assets/ethio5.jpg">
+               <div class="user-info"></div>
+              
             </div>
+            <h1 class="title">+ በዓለ ደብረ ቊስቋም +</h1>
+            <p>ኅዳር፤ ፳፻፲፬ ዓ.ም
+
+ደብረ ቊስቋም እመቤታችን ቅድስት ድንግል ማርያም የተወደደ ልጇ ጌታችን ኢየሱስ ክርስቶስን ለመግደል ከሚፈልጉት ሸሽተው መጠጊያ ያገኙበት እንዲሁም ቅዱስ ገብርኤል ንጉሥ ሄሮድስ መሞቱን ለቅዱስ ዮሴፍ በሕልሙ የገለጸበት ስፍራ ነው፡፡ ‹‹የሕፃኑን ነፍስ የሚሹ ሞተዋልና፥ ተነሥተህ ሕፃኑንና እናቱን ይዘህ ወደ እስራኤል ሀገር ሂድ›› እንዲል። (ማቴ.፪፥፲፱-፳)
+
+በመጽሐፈ ስንክሳር እንደተጻፈውም ጌታችን ኢየሱስ ዳግመኛም በኋላ ዘመን ሐዋርያትን በደብረ ቁስቋም ሰብስቦ፣........ </p>
+      
+            <router-link class="read-more" to=" /news ">ሙሉውን ለማንበብ</router-link>  
+            <router-view/>
+      </div>
+      
+   </div>
+
+      
+</section>
+
+<!-- footer -->
+<!-- footer -->
+<!-- footer -->
+<section>
+   
+<!-- Footer -->
+<footer class="bg-dark text-center text-white">
+ <!-- Grid container -->
+ <div class="container p-4">
+   <!-- Section: Social media -->
+   <section class="mb-4">
+     <!-- Facebook -->
+     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+       ><i class="fab fa-facebook-f"></i
+     ></a>
+
+     <!-- Twitter -->
+     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+       ><i class="fab fa-twitter"></i
+     ></a>
+
+     <!-- Google -->
+     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+       ><i class="fab fa-google"></i
+     ></a>
+
+     <!-- Instagram -->
+     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+       ><i class="fab fa-instagram"></i
+     ></a>
+
+     <!-- Linkedin -->
+     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+       ><i class="fab fa-linkedin-in"></i
+     ></a>
+
+     <!-- Github -->
+     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+       ><i class="fab fa-github"></i
+     ></a>
+   </section>
+   <!-- Section: Social media -->
+
+   <!-- Section: Form -->
+   <section class="">
+     <form action="">
+       <!--Grid row-->
+       <div class="row d-flex justify-content-center">
+         <!--Grid column-->
+         <div class="col-auto">
+           <p class="pt-2">
+             <strong>Email address</strong>
+           </p>
          </div>
-      </section>
+         <!--Grid column-->
+
+         <!--Grid column-->
+         <div class="col-md-5 col-12">
+           <!-- Email input -->
+           <div class="form-outline form-white mb-4">
+             <input type="email" id="form5Example21" class="form-control" />
+             <label class="form-label" for="form5Example21"></label>
+           </div>
+         </div>
+         <!--Grid column-->
+
+         <!--Grid column-->
+         <div class="col-auto">
+           <!-- Submit button -->
+           <button type="submit" class="btn btn-outline-light mb-4">
+             Subscribe
+           </button>
+         </div>
+         <!--Grid column-->
+       </div>
+       <!--Grid row-->
+     </form>
+   </section>
+   <!-- Section: Form -->
+
+   <!-- Section: Text -->
+   <section class="mb-4">
+     <h4>
+      የሐዋሳ ደ/ም/ቅ/ገብርኤል ገዳም መ/ድ/ሰ/ት/ቤት 
+     </h4>
+   </section>
+   <!-- Section: Text -->
+
+   <!-- Section: Links -->
+   <section class="">
+     <!--Grid row-->
+     <div class="row">
+       <!--Grid column-->
+       <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <p>
+           ያለጠባቂ ያልተወንና እንዲቀድሱን አባቶችን ለቀደሰ ለቅዱስ አምላካችን ለህያው እግዚአብሔር እንዲሁም ስም አጠራሯ ለሚጣፍጠው ለዘላለማዊት ድንግል እናታችን ለቅደስት ድንግል ማርያም ክብር ምስጋና ይድረሳቸው፡፡
+         <br>ወስብሀት ለእግዚአብሔር ወለወላዲቱ ድንግል ወለመስቀሉ ክቡር ፡፡</p>
+         
+       </div>
+       <!--Grid column-->
+
+       <!--Grid column-->
+       <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+         <h5 class="text-uppercase">ክፍላት</h5>
+           <hr>
+         <ul class="list-unstyled mb-0">
+           <li>
+             <a href="#!" class="text-white">ትምህርት ክፍል</a>
+           </li>
+           <li>
+             <a href="#!" class="text-white">መስተንግዶ ክፍል</a>
+           </li>
+           <li>
+             <a href="#!" class="text-white">መዝሙር ክፍል </a>
+           </li>
+           <li>
+             <a href="#!" class="text-white">ኪነ ጥበብ ክፍል</a>
+           </li>
+         </ul>
+       </div>
+       <!--Grid column-->
+
+       <!--Grid column-->
+       <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+         <h5 class="text-uppercase">ያግኙን</h5>
+           <hr>
+         <p><i class="fas fa-home me-3"></i> ሐዋሳ,ኢትዮጲያ</p>
+         <p>
+           <i class="fas fa-envelope me-3"></i>
+           info@sundayschool.com
+         </p>
+         <p><i class="fas fa-phone me-3"></i> + 046 234 567 88</p>
+         <p><i class="fas fa-print me-3"></i> + 046 234 567 89</p>
+       </div>
+       <!--Grid column-->
+
+       <!--Grid column-->
+       <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+          <div
+           class="bg-image hover-overlay ripple shadow-1-strong rounded"
+           data-ripple-color="light"
+         >
+           <img
+             src="../assets/design.jpg"
+             class="w-100"
+           />
+           <h6>አዲስ የሚሰራው የሰንበት ትምህርትቤታችን ዲዛይን</h6>
+           <a href="#!">
+             <div
+               class="mask"
+               style="background-color: rgba(251, 251, 251, 0.2);"
+             ></div>
+           </a>
+         </div>
+       </div>
+       <!--Grid column-->
+     </div>
+     <!--Grid row-->
+   </section>
+   <!-- Section: Links -->
+ </div>
+ <!-- Grid container -->
+
+ <!-- Copyright -->
+ <div class="container p-4">
+   <!-- Section: Images -->
+   
+   <!-- Section: Images -->
+ </div>
+ <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.3);">
+   <div class="row d-flex justify-content-center">
+         <!--Grid column-->
+         <div class="col-auto">
+           <p class="pt-2">
+             <strong>© 2020 Copyright:</strong>
+             <a class="text-white" href="https://Hawassasaintgebrielsundayschool.com/">Hawassasaintgebrielsundayschool.com </a> 
+           </p>
+         </div>
+         <!--Grid column-->
+
+         <!--Grid column-->
+         <div class="col-md-5 col-12">
+           <!-- Email input -->
+           <div class="form-outline form-white mb-4">
+             <n>
+             <a href="#/Home" class="text-white">Home |</a>
+              <a href="#!" class="text-white">  Contact |</a>
+               <a href="#!" class="text-white">   Tomar |</a>
+                <a href="#!" class="text-white">  News |</a>
+             </n>
+           </div>
+         </div>
+         <!--Grid column-->
+       </div>
+ </div>
+ 
+ <!-- Copyright -->
+</footer>
+<!-- Footer -->
+</section>
 
 
 </template>
 
+
 <style>
-.tabs-section {
-    overflow: hidden;
-    background-color: #333;
-    padding: 60px 0px;
+.page-title{
+   margin-top: -40px;
 }
-.tabs-section .feature-img {
-    max-height: 255px;
-    overflow: hidden;
-    border-radius: 10px;
-    border: 3px solid #fff;
+.title{
+   font-size: 24px;
+   font-weight: 700;
 }
-.tabs-section .nav-tabs {
-    border: 0;
+#testimonial{
+   width: 100%;
+   padding: 30px 0;
+   background: #efefef;
 }
-.tabs-section .nav-link {
-    border: 0;
-    padding: 11px 15px;
-    transition: 0.3s;
-    color: #fff;
-    border-radius: 0;
-    border-right: 2px solid #cddc39 !important;
-    font-weight: 600;
-    font-size: 15px;
+.testimonial-row{
+   width: 80%;
+   margin: auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   flex-wrap: wrap;
+   margin-top: 50px;
 }
-.tabs-section .nav-link:hover {
-    color: #cddc39;
+.testimonial-col{
+   flex-basis: 28%;
+   padding: 5px;  
+   margin-bottom: 30px;
+   border-radius: 10px;
+   box-shadow: 0 10px 20px #00968814;
+   cursor: pointer;
+   transition: transform 0.5s;
+   background-color: #3f3f3f;
+   color: #efefef;
 }
-.tabs-section .nav-link.active {
-    color: #333333;
-    background: #cddc39;
+.testimonial-col p{
+   font-size: 17px;
 }
-.tabs-section .nav-link:hover {
-    border-right: 4px solid #cddc39;
+
+.user{
+   display: flex;
+   align-items: center;
+   margin: 10px 0;  
 }
-.tabs-section .tab-pane.active {
-    -webkit-animation: fadeIn 0.5s ease-out;
-    animation: fadeIn 0.5s ease-out;
+
+.user img{
+   width: 100%;
+   margin-right: 20px;
+   border-radius: 10px;
 }
-.tabs-section .details h3 {
-    font-size: 26px;
-    color: #cddc39;
+.user-info .fa{
+   margin-left: 10px;
+   color: #27c0ff;
+   font-size: 20px;
 }
-.tabs-section .details p {
-    color: #aaaaaa;
+
+.user-info small{
+       color: #009688;
+}
+
+.testimonial-col:hover{
+   transform: translateY(-7px);
+}
+
+@media screen and (max-width: 770px){
+   .testimonial-col{
+       flex-basis: 100%;
+   }
+}
+.read-more{
+   color: orange;
+   text-decoration: none;
+   border: 0.5px solid #009688;
+   padding: 0 15px 2px;
+   border-radius: 36px;
+   margin: 46px;
+   font-size: 18px;
+   box-shadow: teal;
 }
 </style>

@@ -7,6 +7,8 @@ import Login from '../views/Login.vue'
 import Account from '../views/Account.vue'
 import Register from '../views/Register.vue'
 import Dashboard from '../views/Dashboard.vue'
+import dashboardNews from '../views/admin/dashboardNews.vue'
+import dashboardTomar from '../views/admin/dashboardTomar.vue'
 const routes = [
   {
     path: '/',
@@ -47,7 +49,17 @@ const routes = [
     path: '/Dashboard',
     name: 'Dashboard',
     component: Dashboard
-  }
+  },
+  {
+    path: '/admin/dashboardNews',
+    name: 'dashboardNews',
+    component: dashboardNews
+  },
+  {
+    path: '/admin/dashboardTomar',
+    name: 'dashboardTomar',
+    component: dashboardTomar
+  },
 ]
 
 const router = createRouter({
